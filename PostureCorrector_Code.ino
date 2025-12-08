@@ -18,7 +18,7 @@ const int BUZZER_PIN = 9;
 String wifiSSID = "YOUR_WIFI_NAME_HERE";      
 String wifiPass = "YOUR_WIFI_PASSWORD_HERE"; 
 
-String apiKey = "AMTWNU8U2YX16Y3C"; // Your ThingSpeak Write Key
+String apiKey = "YOUR_API_KEY_HERE"; // Your ThingSpeak Write Key
 String host = "api.thingspeak.com";
 String port = "80";
 
